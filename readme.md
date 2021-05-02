@@ -1,3 +1,3 @@
 # Readme
 
-please read me.
+Read me please.
